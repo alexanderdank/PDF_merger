@@ -1,0 +1,12 @@
+name: PDF_merger
+title: PDF_merger
+username: alexwurfhm
+account: alexwurfhm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9560620
+bundleId: 7535485
+url: https://alexwurfhm.shinyapps.io/PDF_merger/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
