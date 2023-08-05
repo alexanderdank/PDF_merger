@@ -18,7 +18,7 @@ ui <- fluidPage(theme = shinytheme("cosmo"),
     sidebarPanel(ID = "file_input",
                  
                  #file input code for input multiple pdfs
-                 fileInput('file', 'File input', multiple = TRUE, accept =c('.pdf')),
+                 fileInput('file', 'Files input', multiple = TRUE, accept =c('.pdf')),
                  
                  #download button for downloading the merged pdfs
                  downloadButton('download', "Download merged pdf files")
